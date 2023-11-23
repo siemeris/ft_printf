@@ -36,7 +36,6 @@ d/i: int            (integer)
 ## Installation
 ```
 git clone https://github.com/siemeris/ft_printf
-cd ft_printf
 make
 ```
 ## Compilation
